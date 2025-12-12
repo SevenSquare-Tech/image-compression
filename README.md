@@ -9,6 +9,8 @@ A native image resizing & compression tool for React Native (iOS & Android).
 - Supports JPEG and PNG formats
 - Works on both iOS and Android
 
+[Here's the Complete Guide to Build a Fast Image Compression Tool in React Native.](https://www.sevensquaretech.com/build-react-native-image-compression-tool-with-github-code/)
+
 ## Installation
 
 npm install image-compression-before-upload
